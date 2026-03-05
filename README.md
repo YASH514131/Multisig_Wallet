@@ -427,10 +427,3 @@ Auditability > Simplicity
 
 ---
 
-If you want next, I can also generate:
-
-* A separate prompt only for Anchor contract generation
-* A separate prompt only for Flutter
-* Or a threat model document like a real Web3 security audit
-
-Tell me what level you want to go deeper into.
