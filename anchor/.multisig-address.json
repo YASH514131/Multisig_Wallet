@@ -1,0 +1,14 @@
+{
+  "tx": "5uJtkqKPyhYE9cvAFYSLNSX8mZMYBQ1yABoyDtrRQK9f9ZAVyjLambmnRZLNEbEDjUMXaXx5tnkt2sEwpxWz4vPh",
+  "multisig": "6oWsrsmauwoCrDxovKbUHh3Hfmc7TppdHjyAuvaebk29",
+  "vault": "DmWw7Qwgna1jLZnzcqPynHHmzpFhkCUehLpwTUnfLreW",
+  "owners": [
+    "2GFiutByaUwh9CC2LG73bhQCg4YnPWZncvuKa8sgtXSD",
+    "GtSdCQyUbrdntqNKsn1jNhVkhfXMGZWfE7Dt5HbDZ7Ub",
+    "9LvfKFStxyGfMLBPMYEJvuPQQZcJ2jpHak8CX3LmpkTe",
+    "6xrzfoWqUF9p1FUA87Jmsw62z3oNrWLTtU1yEL7yv7Aj",
+    "4D8JQ8bd1AKs7zNcHURWKouk3i97Av2TYFS9NF9e3Mab"
+  ],
+  "threshold": 2,
+  "rpc": "https://api.devnet.solana.com"
+}

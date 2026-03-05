@@ -1,0 +1,13 @@
+[programs.localnet]
+true_wallet_multisig = "TRu3WALLe7Mu1t151g11111111111111111111111"
+
+[registry]
+url = "https://api.apr.dev"
+
+[provider]
+cluster = "Localnet"
+wallet = "~/.config/solana/id.json"
+
+[scripts]
+anchor-build = "anchor build"
+anchor-test = "anchor test"

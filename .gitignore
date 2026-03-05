@@ -1,0 +1,63 @@
+# Node modules
+node_modules/
+
+# Rust/Anchor build artifacts
+anchor/target/
+
+# Flutter/Dart
+app/.dart_tool/
+app/build/
+app/.flutter-plugins
+app/.flutter-plugins-dependencies
+app/.packages
+app/*.iml
+app/.metadata
+
+# Android
+app/android/.gradle/
+app/android/local.properties
+app/android/app/build/
+app/android/*.iml
+app/build/
+
+# iOS
+app/ios/Pods/
+app/ios/.symlinks/
+app/ios/Flutter/Flutter.framework
+app/ios/Flutter/Flutter.podspec
+app/ios/Flutter/Generated.xcconfig
+app/ios/Flutter/app.flx
+app/ios/Flutter/engine/
+app/ios/ServiceDefinitions.json
+
+# macOS
+app/macos/Flutter/GeneratedPluginRegistrant.swift
+app/macos/Flutter/ephemeral/
+
+# Windows
+app/windows/flutter/generated_plugin_registrant.cc
+app/windows/flutter/generated_plugin_registrant.h
+app/windows/flutter/generated_plugins.cmake
+
+# Linux
+app/linux/flutter/generated_plugin_registrant.cc
+app/linux/flutter/generated_plugin_registrant.h
+app/linux/flutter/generated_plugins.cmake
+
+# Web
+app/web/.dart_tool/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+*.log
+*.lock
+!pubspec.lock
